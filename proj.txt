@@ -1,0 +1,25 @@
+Business Understanding
+    Brief description
+    Question 1
+    Question 2
+    Question 3
+Data Understanding
+    Access and Explore
+Prepare Data
+    Clean
+Data Modeling (Optional)
+    Fit model
+    validate the model
+Evaluation
+    Question 1
+        Analyse
+        Visualise
+        Brief explanation for visualisation
+    Question 2
+        Analyse
+        Visualise
+        Brief explanation źor visualisation
+    Question 3
+        Analyse
+        Visualise
+        Brief explanation for visualisation
